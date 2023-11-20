@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"LukeNumber","l":"getSquare()"},{"p":"<Unnamed>","c":"LukeNumber","l":"getValue()"},{"p":"<Unnamed>","c":"LukeNumber","l":"LukeNumber(int)","u":"%3Cinit%3E(int)"}];updateSearchResults();
